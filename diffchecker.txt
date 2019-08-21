@@ -1,0 +1,2 @@
+This is a diff checker
+This is a file to check diff
