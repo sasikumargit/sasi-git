@@ -1,4 +1,4 @@
 This is a diff checker
 This is a file to check diff
 insert command added
-To test the diff
+To test the df:wq
